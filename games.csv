@@ -1,0 +1,80 @@
+gameID,team1,team2,winner,duration,gold1,gold2,kills1,kills2,bans1,bans2,towers1,inhibs1,barons1,dragons1,heralds1,towers2,inhibs2,barons2,dragons2,heralds2
+1,T1,Team Liquid,T1,36:29,67.2k,66.5k,15,14,"['Ziggs', 'Neeko', 'Kalista', 'Kennen', 'Blitzcrank']","['Caitlyn', 'Poppy', 'Azir', 'Jarvan IV', 'Gnar']",7,1,0,2,0,6,0,2,2,2
+2,Cloud9,MAD Lions,Cloud9,30:60,59.8k,52.6k,10,3,"['Ivern', 'Kalista', 'Azir', 'Rumble', 'Ahri']","['Orianna', 'LeBlanc', 'Maokai', 'Nautilus', 'Rell']",9,1,2,3,1,4,0,0,1,1
+3,Gen.G,GAM Esports,Gen.G,22:35,50.4k,37.4k,22,5,"['Syndra', 'Kalista', 'Maokai', 'Rumble', 'Renata Glasc']","['Poppy', 'Rakan', 'Orianna', 'Taliyah', 'LeBlanc']",9,2,1,2,1,1,0,0,0,1
+4,Team BDS,JD Gaming,JD Gaming,27:05,47k,53.2k,6,14,"['Kalista', 'Taliyah', 'Kennen', 'Neeko', 'Renekton']","['Darius', 'Orianna', 'Maokai', 'Azir', 'Olaf']",5,0,0,1,1,9,2,1,3,1
+5,G2 Esports,Dplus KIA,G2 Esports,42:12,80.8k,68.3k,16,9,"['Caitlyn', 'Jarvan IV', 'Lee Sin', 'Vi', 'Rumble']","['Neeko', 'Kalista', ""K'Sante"", 'Jax', 'Pyke']",10,2,1,5,2,4,0,2,1,0
+6,Weibo Gaming,NRG,Weibo Gaming,29:12,61k,45.8k,12,3,"['Neeko', 'Xayah', 'Rell', 'Renekton', ""K'Sante""]","['Maokai', 'Orianna', 'Vi', 'Nautilus', 'Blitzcrank']",9,1,2,3,2,2,0,0,1,0
+7,LNG Esports,Fnatic,LNG Esports,29:11,60.8k,50.4k,22,9,"['Poppy', 'Kalista', 'Lee Sin', 'Alistar', 'Viego']","['Orianna', 'Rumble', 'Maokai', 'Syndra', 'Neeko']",9,1,2,2,2,4,0,0,2,0
+8,Bilibili Gaming,KT Rolster,Bilibili Gaming,45:17,85.8k,76.1k,20,10,"['Rumble', 'Azir', 'Orianna', 'Renekton', 'Vi']","['Jax', 'Kalista', 'Neeko', 'Alistar', 'Nautilus']",10,2,2,4,0,4,0,1,2,2
+9,NRG,Team Liquid,NRG,31:38,60.5k,48.2k,22,4,"['Ziggs', 'Neeko', 'Lee Sin', 'Kennen', 'Renata Glasc']","['Jayce', 'Azir', 'Poppy', ""Kai'Sa"", 'Xayah']",9,1,1,2,2,3,0,0,2,0
+10,Cloud9,LNG Esports,LNG Esports,32:14,55.5k,62.8k,6,14,"['Kalista', 'Maokai', 'Xayah', 'Poppy', ""K'Sante""]","['Taliyah', 'Orianna', 'Jarvan IV', 'Yone', 'Sylas']",4,0,1,1,2,10,2,1,4,0
+11,MAD Lions,Team BDS,MAD Lions,31:52,65.5k,54.8k,18,8,"['Maokai', 'Darius', 'Orianna', 'Olaf', 'Garen']","['Kennen', 'Rakan', 'Kalista', 'Jarvan IV', 'Lee Sin']",10,1,1,4,2,2,0,1,1,0
+12,Fnatic,GAM Esports,Fnatic,24:10,49.9k,40.1k,18,7,"['Syndra', 'Maokai', 'Rumble', 'Neeko', 'Lee Sin']","['Poppy', 'Orianna', 'Taliyah', 'Ivern', 'Jarvan IV']",8,1,1,2,2,2,0,0,1,0
+13,Gen.G,T1,Gen.G,29:42,58.4k,50.1k,14,6,"['Caitlyn', 'Renata Glasc', 'Kalista', 'Jax', 'Lee Sin']","['Maokai', 'Vi', 'Poppy', 'Azir', 'Sylas']",9,1,1,4,1,4,0,0,1,1
+14,G2 Esports,Weibo Gaming,G2 Esports,38:25,75.5k,75.2k,26,23,"['Poppy', 'Rumble', 'Jarvan IV', 'Nautilus', 'Jax']","['Draven', 'Kalista', 'Maokai', 'Renekton', 'Lee Sin']",9,1,1,1,1,7,0,2,4,1
+15,JD Gaming,Bilibili Gaming,JD Gaming,24:39,52.2k,39.9k,19,7,"['Jax', 'Neeko', 'Rakan', 'Gwen', 'Xayah']","['Jayce', 'Ahri', 'Orianna', 'Syndra', 'Ornn']",10,2,1,4,2,1,0,0,0,0
+16,Dplus KIA,KT Rolster,KT Rolster,32:02,51.3k,61.9k,4,16,"['Maokai', 'Taliyah', 'Rumble', ""K'Sante"", 'Akali']","['Lee Sin', 'Poppy', 'Kalista', 'Caitlyn', 'Renata Glasc']",4,0,0,3,1,9,2,1,1,1
+17,JD Gaming,LNG Esports,JD Gaming,27:39,55.3k,45.5k,15,7,"['Azir', 'Maokai', 'Rumble', 'Jax', 'Gwen']","['Kalista', 'Xayah', 'Rakan', 'Ornn', 'Renekton']",8,1,1,1,0,3,0,0,3,2
+18,LNG Esports,JD Gaming,LNG Esports,28:31,57.3k,44.3k,14,2,"['Kalista', 'Vi', 'Ornn', 'Alistar', 'Poppy']","['Azir', 'Orianna', 'Rumble', 'Neeko', 'Ahri']",8,1,1,3,1,0,0,0,1,1
+19,JD Gaming,LNG Esports,JD Gaming,26:36,52.5k,44k,14,6,"['Azir', 'Maokai', 'Alistar', 'Jax', 'Rumble']","['Kalista', 'Xayah', 'Orianna', 'Ornn', 'Renekton']",8,1,1,2,1,2,0,0,1,1
+20,G2 Esports,Gen.G,Gen.G,31:42,53.4k,64.4k,5,20,"['Vi', 'Poppy', 'Jarvan IV', 'Sejuani', 'Rumble']","['Draven', 'Orianna', 'Kalista', ""K'Sante"", 'Jayce']",3,0,0,2,2,10,1,1,3,0
+21,G2 Esports,Gen.G,Gen.G,31:56,52.8k,67.8k,6,22,"['Vi', 'Poppy', 'Sylas', 'Neeko', 'Jax']","['Draven', 'Orianna', 'Kalista', 'Jayce', 'Renekton']",2,0,0,1,0,9,1,2,3,2
+22,T1,Cloud9,T1,22:26,48.8k,34.5k,15,0,"['Taliyah', 'Maokai', 'Poppy', ""K'Sante"", 'Rell']","['Caitlyn', 'Renata Glasc', 'Azir', 'Nautilus', 'Alistar']",10,2,1,3,2,2,0,0,0,0
+23,NRG,MAD Lions,NRG,41:41,79.2k,74.2k,24,22,"[""Bel'Veth"", 'Kalista', 'Kennen', 'Azir', 'Sivir']","['Orianna', 'Jax', 'Xayah', ""K'Sante"", 'Yone']",10,2,2,4,2,4,0,1,3,0
+24,Bilibili Gaming,Fnatic,Bilibili Gaming,32:59,64.1k,54.6k,15,8,"['Azir', 'Renekton', 'Kalista', 'Rumble', 'Nautilus']","['Neeko', 'Maokai', 'Xayah', 'Lee Sin', 'Vi']",9,2,1,3,0,3,0,0,2,2
+25,KT Rolster,Weibo Gaming,KT Rolster,38:41,76.5k,61.9k,23,11,"['Poppy', 'Maokai', 'Kalista', 'Rell', 'Renata Glasc']","['Alistar', 'Xayah', 'Rakan', 'Vi', 'Nocturne']",9,1,2,3,2,0,0,0,3,0
+26,Team Liquid,GAM Esports,GAM Esports,28:30,45.3k,55.6k,8,15,"['Jayce', 'Syndra', 'Xayah', ""Kai'Sa"", 'Rell']","['Ziggs', 'Lee Sin', 'Viego', 'Kalista', 'Alistar']",2,0,0,2,0,8,1,1,1,2
+27,Team Liquid,GAM Esports,Team Liquid,25:12,49.3k,42.7k,14,6,"['Rumble', 'Maokai', 'Orianna', 'Wukong', 'Nocturne']","['Ziggs', 'Lee Sin', 'Viego', 'Jarvan IV', 'Jax']",9,1,0,1,1,1,0,1,2,1
+28,GAM Esports,Team Liquid,GAM Esports,34:37,69.3k,58.4k,19,4,"['Ziggs', 'Neeko', 'Kindred', 'Jarvan IV', 'Lee Sin']","['Maokai', 'Rumble', 'Orianna', 'Nautilus', 'Renekton']",11,3,2,4,1,4,0,0,1,1
+29,Dplus KIA,Team BDS,Dplus KIA,24:35,52k,40k,18,6,"['Maokai', 'Darius', 'Orianna', 'Garen', 'Malphite']","['Kalista', 'Xayah', 'Jarvan IV', 'Jax', 'Gnar']",10,2,1,1,2,2,0,0,2,0
+30,Team BDS,Dplus KIA,Dplus KIA,24:27,40.2k,47.8k,4,8,"['Kalista', 'Caitlyn', 'Xayah', 'LeBlanc', 'Yasuo']","['Maokai', 'Darius', 'Orianna', 'Vi', 'Garen']",2,0,0,0,1,9,2,1,3,1
+31,Cloud9,Fnatic,Cloud9,40:19,82.1k,69.8k,27,7,"['Azir', 'Poppy', 'Renekton', 'Zeri', 'Rell']","['Maokai', 'Kalista', 'Sejuani', 'Syndra', 'Alistar']",9,2,2,2,2,1,0,1,3,0
+32,Fnatic,Cloud9,Fnatic,27:45,59.1k,49.9k,20,10,"['Maokai', 'Kalista', 'Rumble', 'Alistar', 'Nautilus']","['Azir', 'Xayah', 'Orianna', 'Aphelios', 'Sivir']",9,1,1,3,1,4,0,0,1,1
+33,Cloud9,Fnatic,Fnatic,32:21,58.9k,67.4k,17,25,"['Azir', 'Orianna', 'Poppy', 'Braum', 'Renata Glasc']","['Maokai', 'Kalista', 'Rakan', 'Akali', 'Yone']",4,0,0,0,2,10,2,2,5,0
+34,MAD Lions,Weibo Gaming,Weibo Gaming,32:14,54.1k,60.2k,15,19,"['Poppy', 'Maokai', 'Orianna', 'Taliyah', 'Akali']","['Jarvan IV', 'Xayah', 'Azir', 'Varus', 'Heimerdinger']",5,0,0,3,0,8,1,1,2,2
+35,MAD Lions,Weibo Gaming,Weibo Gaming,28:58,45.4k,57.9k,5,19,"['Poppy', 'Maokai', 'Orianna', 'Taliyah', 'Sylas']","['Xayah', 'Jarvan IV', 'Azir', 'Blitzcrank', 'Pyke']",2,0,0,2,1,11,2,2,2,1
+36,Dplus KIA,GAM Esports,Dplus KIA,26:26,52.4k,41.4k,10,1,"['Maokai', 'Wukong', 'Kalista', 'Aphelios', 'Renata Glasc']","['Caitlyn', 'Alistar', 'Xayah', 'Neeko', 'Azir']",10,2,1,4,1,1,0,0,0,1
+37,GAM Esports,Dplus KIA,Dplus KIA,25:54,39.9k,54.8k,5,20,"['Caitlyn', 'Alistar', 'Renata Glasc', 'Aphelios', 'Neeko']","['Maokai', 'Xayah', 'Kalista', 'Wukong', 'Vi']",1,0,0,0,1,9,1,1,4,1
+38,KT Rolster,LNG Esports,LNG Esports,35:31,58.2k,67.4k,9,13,"['Kalista', ""Kai'Sa"", 'Orianna', 'Rakan', 'Nautilus']","['Xayah', 'Rumble', 'Azir', 'Zeri', 'Varus']",3,0,0,3,2,9,3,2,2,0
+39,KT Rolster,LNG Esports,KT Rolster,32:35,65.1k,51.6k,14,3,"['Maokai', 'Renata Glasc', 'Tristana', 'Alistar', 'Rakan']","['Xayah', 'Rumble', 'Neeko', 'Viego', 'Vi']",10,2,2,4,2,2,0,0,0,0
+40,LNG Esports,KT Rolster,LNG Esports,24:21,49.9k,38.1k,16,4,"['Rumble', 'Neeko', 'Zeri', 'Poppy', 'Jax']","['Maokai', 'Xayah', 'Renata Glasc', 'Sylas', 'Jarvan IV']",8,1,1,1,2,1,0,0,2,0
+41,NRG,G2 Esports,NRG,31:04,62k,48.3k,23,3,"['Draven', 'Kalista', 'Tristana', 'Olaf', 'Viego']","['Orianna', 'Xayah', 'Alistar', 'Rakan', 'Renata Glasc']",10,2,1,4,2,1,0,0,0,0
+42,G2 Esports,NRG,NRG,28:30,46.2k,57.9k,7,20,"['Senna', 'Maokai', 'Orianna', 'Neeko', 'Aphelios']","['Draven', 'Kalista', 'Viego', ""K'Sante"", 'Jax']",2,0,0,0,2,9,1,1,4,0
+43,T1,Bilibili Gaming,T1,28:45,57.2k,43.8k,13,3,"['Maokai', 'Neeko', 'Jax', 'Rakan', 'Sejuani']","['Rumble', 'Xayah', 'Renata Glasc', 'Alistar', 'Caitlyn']",10,2,1,3,2,0,0,0,0,0
+44,Bilibili Gaming,T1,T1,31:02,50k,59.6k,6,16,"['Renata Glasc', 'Azir', 'Rumble', 'Caitlyn', ""Kai'Sa""]","['Maokai', 'Rakan', 'Neeko', 'Blitzcrank', 'Sejuani']",2,0,0,1,1,9,1,1,4,1
+45,KT Rolster,Dplus KIA,KT Rolster,34:25,70.4k,55.2k,15,9,"['Renata Glasc', 'Lee Sin', 'Kalista', 'Alistar', 'Orianna']","['Maokai', 'Xayah', ""Kai'Sa"", 'Sejuani', ""K'Sante""]",11,3,2,1,0,1,0,0,4,2
+46,Dplus KIA,KT Rolster,KT Rolster,43:26,77.7k,80.5k,15,15,"['Maokai', ""Kai'Sa"", 'Rumble', 'Vi', 'Sejuani']","['Xayah', 'Kalista', 'Lee Sin', 'Azir', 'Orianna']",5,0,2,3,2,9,1,1,3,0
+47,Fnatic,Weibo Gaming,Fnatic,28:24,54.1k,44.5k,13,4,"['Neeko', 'Rumble', 'Kalista', 'Azir', 'Syndra']","['Xayah', 'Jarvan IV', 'Maokai', 'Nautilus', 'Ivern']",10,1,1,4,0,2,0,0,0,2
+48,Weibo Gaming,Fnatic,Weibo Gaming,30:43,63.4k,48.8k,18,8,"['Jarvan IV', 'Azir', 'Xayah', 'Nautilus', 'Vi']","['Neeko', 'Rumble', 'Orianna', 'Poppy', 'Akali']",10,2,2,2,1,1,0,0,3,1
+49,Fnatic,Weibo Gaming,Weibo Gaming,23:39,40.1k,48.4k,6,17,"['Neeko', 'Rumble', 'Renata Glasc', 'Kalista', 'Jinx']","['Xayah', 'Jarvan IV', 'Orianna', 'Nautilus', 'Poppy']",3,0,0,0,2,9,2,1,3,0
+50,G2 Esports,Bilibili Gaming,Bilibili Gaming,34:22,54.1k,67.9k,3,16,"['Neeko', 'Rakan', 'Jarvan IV', 'Bard', 'Alistar']","['Kalista', 'Draven', 'Orianna', 'Azir', 'Renekton']",2,0,0,1,1,9,1,2,4,1
+51,G2 Esports,Bilibili Gaming,G2 Esports,43:58,84k,79.5k,21,20,"['Jax', 'Xayah', 'Alistar', 'Tristana', 'Renata Glasc']","['Kalista', 'Draven', 'Poppy', 'Nautilus', 'Rell']",8,1,1,6,1,6,0,2,0,1
+52,Bilibili Gaming,G2 Esports,Bilibili Gaming,29:07,57.6k,46.9k,16,5,"['Kalista', 'Draven', 'Poppy', 'Rakan', 'Rell']","['Xayah', 'Neeko', 'Jax', 'Alistar', 'Aphelios']",11,3,1,4,2,2,0,0,0,0
+53,NRG,Weibo Gaming,Weibo Gaming,39:14,65.1k,68.7k,6,9,"['Renata Glasc', 'Rumble', 'Azir', 'Nocturne', 'Gnar']","['Xayah', 'Jarvan IV', 'Maokai', 'Vi', 'Jax']",4,0,1,3,2,10,2,2,3,0
+54,NRG,Weibo Gaming,Weibo Gaming,33:24,53.9k,64k,9,20,"['Renata Glasc', 'Rumble', 'Azir', 'Gnar', 'Viego']","['Xayah', 'Jarvan IV', 'Maokai', 'Senna', 'Ziggs']",1,0,1,1,1,8,1,1,4,1
+55,NRG,Weibo Gaming,Weibo Gaming,26:23,40.9k,54.1k,7,19,"['Renata Glasc', 'Azir', 'Aphelios', ""K'Sante"", 'Tristana']","['Xayah', 'Neeko', 'Orianna', 'Jarvan IV', 'Poppy']",0,0,0,0,0,8,1,1,4,2
+56,Gen.G,Bilibili Gaming,Bilibili Gaming,29:41,48.6k,59.2k,5,14,"['Neeko', 'Renekton', 'Xayah', 'Rumble', ""K'Sante""]","['Rakan', 'Maokai', 'Sylas', 'Poppy', 'Sejuani']",3,0,0,0,0,8,1,1,5,2
+57,Bilibili Gaming,Gen.G,Bilibili Gaming,28:01,58.8k,42.4k,15,3,"['Sylas', 'Rakan', 'Poppy', 'Yone', 'Akali']","['Jax', 'Neeko', 'Kalista', 'Jinx', 'Ashe']",10,2,2,4,2,0,0,0,0,0
+58,Gen.G,Bilibili Gaming,Gen.G,46:11,90.3k,77.1k,13,9,"['Jax', 'Xayah', 'Renata Glasc', 'Aphelios', 'Kalista']","['Rakan', 'Sylas', 'Rumble', 'Zeri', 'Draven']",11,4,3,4,2,5,1,0,3,0
+59,Bilibili Gaming,Gen.G,Gen.G,35:50,60.2k,69.3k,11,20,"['Sylas', 'Rakan', 'Yone', 'Nautilus', ""Kai'Sa""]","['Xayah', 'Renata Glasc', 'Jax', 'Caitlyn', 'Aphelios']",4,0,1,2,1,8,1,1,3,1
+60,Bilibili Gaming,Gen.G,Bilibili Gaming,33:43,63.4k,56.1k,14,6,"['Sylas', 'Rakan', 'Aatrox', 'Nautilus', 'Kalista']","['Xayah', 'Renata Glasc', 'Jax', 'Caitlyn', 'Aphelios']",10,2,2,3,1,4,0,0,2,1
+61,JD Gaming,KT Rolster,KT Rolster,29:40,48.1k,59.1k,4,15,"['Rumble', 'Neeko', 'Azir', 'Nautilus', 'Taliyah']","['Xayah', 'Kalista', 'Jarvan IV', 'Vi', 'Wukong']",2,0,0,2,0,7,1,1,2,2
+62,JD Gaming,KT Rolster,JD Gaming,25:60,54.4k,41.6k,18,4,"['Rumble', 'Sejuani', 'Azir', 'Poppy', 'Rell']","['Xayah', 'Kalista', 'Jarvan IV', ""Kai'Sa"", 'Zeri']",9,2,1,3,1,1,0,0,1,1
+63,KT Rolster,JD Gaming,JD Gaming,27:22,44.4k,52k,6,14,"['Kalista', 'Jarvan IV', 'Renata Glasc', ""Kai'Sa"", 'Zeri']","['Rumble', 'Neeko', 'Sejuani', 'Viego', 'Poppy']",1,0,0,0,0,7,1,0,4,2
+64,KT Rolster,JD Gaming,JD Gaming,33:40,60.2k,63.4k,15,14,"['Kalista', 'Jarvan IV', 'Wukong', 'Aatrox', 'Rell']","['Rumble', 'Neeko', 'Sejuani', 'Akali', 'Azir']",5,0,0,2,2,9,3,2,3,0
+65,LNG Esports,T1,T1,26:38,41.5k,54.1k,2,13,"['Caitlyn', 'Renata Glasc', 'Rumble', 'Aphelios', 'Rakan']","['Xayah', 'Neeko', 'Jax', 'Nautilus', 'Alistar']",2,0,0,0,0,8,1,1,4,2
+66,LNG Esports,T1,T1,31:40,49.1k,56.1k,3,8,"['Rumble', 'Jarvan IV', 'Azir', 'Caitlyn', 'Renata Glasc']","['Xayah', 'Neeko', 'Orianna', ""Kai'Sa"", 'Nautilus']",2,0,0,0,1,7,1,0,4,1
+67,LNG Esports,T1,T1,26:19,40.1k,52.4k,3,13,"['Rumble', 'Jarvan IV', 'Rell', 'Kalista', 'Gnar']","['Xayah', 'Neeko', 'Maokai', 'Caitlyn', ""Kai'Sa""]",2,0,0,0,0,10,2,1,4,2
+68,Weibo Gaming,Bilibili Gaming,Weibo Gaming,29:22,59.2k,46.4k,18,3,"['Jax', 'Jarvan IV', 'Rakan', 'Nautilus', 'Blitzcrank']","['Orianna', 'Kalista', 'Caitlyn', 'Renata Glasc', 'Wukong']",10,2,1,3,2,2,0,0,1,0
+69,Bilibili Gaming,Weibo Gaming,Bilibili Gaming,35:06,73.3k,58.7k,24,12,"['Rumble', ""Bel'Veth"", 'Renata Glasc', 'Jayce', ""K'Sante""]","['Jarvan IV', 'Neeko', 'Orianna', 'Rell', 'Sejuani']",10,2,1,5,2,2,0,0,0,0
+70,Weibo Gaming,Bilibili Gaming,Weibo Gaming,28:10,52.7k,41.6k,13,4,"['Jax', 'Jarvan IV', 'Rakan', 'Sylas', 'Ahri']","['Rumble', 'Orianna', 'Neeko', 'Taliyah', 'Azir']",10,1,1,2,2,1,0,0,3,0
+71,Bilibili Gaming,Weibo Gaming,Bilibili Gaming,28:34,56.9k,43.6k,19,3,"['Rumble', 'Poppy', ""Bel'Veth"", 'Caitlyn', 'Kalista']","['Neeko', 'Jarvan IV', 'Vi', 'Tahm Kench', 'Rakan']",9,2,1,3,2,2,0,0,1,0
+72,Weibo Gaming,Bilibili Gaming,Weibo Gaming,35:10,64.5k,62.8k,20,15,"['Jax', 'Jarvan IV', 'Sylas', 'Rakan', 'Ashe']","['Rumble', 'Orianna', 'Neeko', 'Gnar', 'Aatrox']",8,1,1,4,1,4,0,1,1,1
+73,T1,JD Gaming,T1,24:51,48.2k,38.1k,23,8,"['Rakan', 'Neeko', 'Jarvan IV', 'Nautilus', 'Renata Glasc']","['Ashe', 'Poppy', 'Kalista', 'Senna', 'Caitlyn']",7,1,0,2,1,0,0,0,1,1
+74,JD Gaming,T1,JD Gaming,37:60,77.4k,63.3k,20,7,"['Rumble', 'Poppy', 'Akali', 'Gwen', 'Rell']","['Rakan', 'Neeko', 'Jarvan IV', 'Nautilus', 'Blitzcrank']",11,3,2,3,1,3,0,0,2,1
+75,T1,JD Gaming,T1,30:43,55.3k,54.6k,18,10,"['Rakan', 'Neeko', 'Jarvan IV', 'Akali', ""K'Sante""]","['Rumble', 'Orianna', 'Poppy', 'Pyke', 'Bard']",6,1,1,4,2,4,0,1,1,0
+76,JD Gaming,T1,T1,31:25,51.4k,64.1k,6,16,"['Rumble', 'Poppy', 'Rell', 'Ashe', 'Renata Glasc']","['Rakan', 'Neeko', 'Kalista', ""Kai'Sa"", 'Xayah']",3,0,0,0,2,11,3,2,4,0
+77,Weibo Gaming,T1,T1,30:32,49k,62k,5,14,"['Jarvan IV', 'Azir', 'Sylas', 'Sejuani', 'Rell']","['Neeko', 'Orianna', 'Rumble', 'Ashe', 'Varus']",1,0,0,1,0,10,2,2,4,2
+78,Weibo Gaming,T1,T1,29:58,45.1k,59.5k,1,14,"['Azir', 'Jarvan IV', 'Ashe', 'Poppy', 'Yone']","['Neeko', 'Orianna', 'Rumble', 'Jayce', ""K'Sante""]",1,0,0,2,2,8,1,1,2,0
+79,Weibo Gaming,T1,T1,25:48,41.2k,52.5k,5,19,"['Jarvan IV', 'Ashe', 'Renata Glasc', 'Wukong', 'Jayce']","['Neeko', 'Rumble', 'Orianna', 'Poppy', ""K'Sante""]",2,0,0,0,1,8,1,1,4,0
