@@ -92,7 +92,8 @@ if __name__ == '__main__':
     games_columns = ['gameID', 'team1', 'team2', 'winner', 'duration', 'gold1', 'gold2', 'kills1', 'kills2', 'bans1',
                      'bans2', 'towers1', 'inhibs1', 'barons1', 'dragons1', 'heralds1', 'towers2', 'inhibs2', 'barons2',
                      'dragons2', 'heralds2']
-    performances_columns = ['gameID', 'team', 'player', 'champion', 'kills', 'deaths', 'assists', 'cs', 'gold', 'items']
+    performances_columns = ['gameID', 'team', 'player', 'champion', 'kills', 'deaths', 'assists', 'cs', 'gold', 'rune',
+                            'items']
     with open('./games.csv', 'w', newline='', encoding='utf-8') as f1:
         writer = csv.writer(f1)
         writer.writerow(games_columns)

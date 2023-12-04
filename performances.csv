@@ -1,4 +1,4 @@
-gameID,team,player,champion,kills,deaths,assists,cs,gold,items
+gameID,team,player,champion,kills,deaths,assists,cs,gold,rune,items
 1,T1,Zeus,Jayce,6,3,4,348,16.6k,Conqueror,"[""Caulfield's Warhammer"", 'Eclipse', 'Muramana', ""Serylda's Grudge"", 'Spear Of Shojin', 'Ionian Boots of Lucidity']"
 1,T1,Oner,Sejuani,0,3,10,177,10.2k,Aftershock,"['Plated Steelcaps', 'Radiant Virtue', 'Thornmail', 'Kindlegem', 'Negatron Cloak']"
 1,T1,Faker,Orianna,5,4,4,348,15.1k,Phase Rush,"['Fiendish Codex', 'Void Staff', 'Broken Stopwatch', ""Mercury's Treads"", ""Rabadon's Deathcap"", ""Luden's Tempest""]"
